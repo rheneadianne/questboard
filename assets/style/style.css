@@ -158,3 +158,54 @@ header {
 .quest-big .linene-q h3{
     background-color: #afd8f8;
 }
+
+@media screen and (max-width:768px){
+    .main {
+        flex-direction: column;
+        align-items: center;
+        overflow: hidden;
+        height:78%;
+        width:100%;
+    }
+
+    .side {
+        height: auto;
+        width:96%;
+        margin:1%;
+        padding:1%;
+        direction:ltr;
+        font-size: 10px;
+    }
+
+    .op {
+        width:96%;
+        margin: 1%;
+        padding:1%;
+    }
+
+    .quest-big {
+        width: 96%;
+        margin: 1%;
+        padding: 1%;
+        
+    }
+
+    .hide, .show {
+        width: 96%;
+        margin:1%;
+        padding: 1%;
+        font-size:10px;
+    }
+    
+    .quest-big .linene-q p{
+        font-size: 12px;
+    }
+
+    .quest-big h3 {
+        font-size:12px;
+    }
+
+    .please-see {
+        font-size: 10px;
+    }
+}
