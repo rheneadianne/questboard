@@ -1,3 +1,8 @@
+// hello present tianne, past tianne here
+// im keeping this here to document how i used to code jquery. 
+// so one day maybe i can look back and see how far my abilities have gone :)
+// secondgo.js was made less than a day after this. im just very proud
+
 var unclickedcolours = "color:black;background-color:#ffe4c7; box-shadow: 0 0 0 none;";
 var unclickedlinene = "color:black;background-color:#cee8fc; box-shadow: 0 0 0 none;";
 var unclickeddone = "color:black;background-color:#c49675; box-shadow: 0 0 0 none;";
