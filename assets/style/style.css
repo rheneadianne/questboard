@@ -18,7 +18,7 @@
 }
 
 body {
-    background-image: url(./../images/phandalin.jpg);
+    background-image: url('./../images/phandalin.jpg');
     background-color: #241404;
     background-size: cover;
 }
