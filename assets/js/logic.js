@@ -13,7 +13,7 @@ $(".one").click(function () {
     $(".one").attr("style", clickedcolours);
     $(".two").attr("style", unclickedcolours);
     $(".three").attr("style", unclickedcolours)
-    $(".four").attr("style", unclickedlinene)
+    $(".four").attr("style", unclickedlinene``)
     $(".five").attr("style", unclickedcolours);
 });
 
