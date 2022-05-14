@@ -171,6 +171,7 @@ header {
     .side {
         height: auto;
         width:96%;
+        height:40%;
         margin:1%;
         padding:1%;
         direction:ltr;
@@ -187,6 +188,7 @@ header {
         width: 96%;
         margin: 1%;
         padding: 1%;
+        height:60%;
     }
 
     .hide, .show {
