@@ -34,3 +34,11 @@ $(".four").click(function () {
     $(".four").attr("style", clickedcolours);
     $(".side article").not(".four").attr("style", unclickedcolours)
 });
+
+$(".five").click(function () {
+    $( ".quest-big article" ).not( ".big-five" ).hide();
+    $( ".big-five" ).show();
+    $(".five").attr("style", clickedcolours);
+    $(".side article").not(".five").attr("style", unclickedcolours)
+    $(".linene-q").attr("style", unclickedlinene)
+});
