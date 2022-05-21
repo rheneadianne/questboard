@@ -146,7 +146,7 @@ header {
     background-size: 200px;
 }
 
-.dmitri {
+.quest-big .dmitri p, .quest-big .dmitri h3{
     font-family: 'Inconsolata', monospace;
 }
 
