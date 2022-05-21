@@ -42,3 +42,19 @@ $(".five").click(function () {
     $(".side article").not(".five").attr("style", unclickedcolours)
     $(".linene-q").attr("style", unclickedlinene)
 });
+
+$(".six").click(function () {
+    $( ".quest-big article" ).not( ".big-six" ).hide();
+    $( ".big-six" ).show();
+    $(".six").attr("style", clickedcolours);
+    $(".side article").not(".six").attr("style", unclickedcolours)
+    $(".linene-q").attr("style", unclickedlinene)
+});
+
+$(".seven").click(function () {
+    $( ".quest-big article" ).not( ".big-seven" ).hide();
+    $( ".big-seven" ).show();
+    $(".seven").attr("style", clickedcolours);
+    $(".side article").not(".seven").attr("style", unclickedcolours)
+    $(".linene-q").attr("style", unclickedlinene)
+});
